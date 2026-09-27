@@ -176,7 +176,7 @@ Change `ZoneInfo("Asia/Kolkata")` to your own [IANA timezone name](https://en.wi
 Always check each provider's current terms and quotas — free tiers and limits can change over time.
 
 ---
-
+# CONTACT ME THROUGH THE CONTACT DETAILS GIVEN IN MY PROFILE TO GET ANY HELP OR GUIDELINES IN SETTING UP THIS PROJECT FOR YOURSELF. INSTAGRAM: mantanova_87
 ## License
 
 This project is provided under the MIT License — see `LICENSE` for details. Use it, modify it, and adapt it to your own workflow.
